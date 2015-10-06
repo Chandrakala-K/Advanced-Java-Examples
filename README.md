@@ -167,22 +167,6 @@ public class ReadXMLFile {
 
 }
 
-XML File
-
-<?xml version="1.0" encoding="UTF-8"?>
-   <employees> 
-   <employee>
-   <id>1001</id>
-   <name>Jack</name>
-   <Gender>Male</Gender>
-   </employee>
-   <employee>
-   <id>1002</id>
-   <name>Kate</name>
-   <Gender>Female</Gender>
-   </employee>
-   </employees>
-
 
 
 
